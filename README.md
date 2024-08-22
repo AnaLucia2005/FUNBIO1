@@ -6,7 +6,7 @@ Aqui esta la imagen de ejemplo
 Otra imagen 
 ![Pasatiempos](Pasatiempos/3.png)
 Otra imagen
-![Lugar_favorito](LugarFavorito/5.png)
+![Lugar_favorito](Lugar_favorito/5.png)
 Otra imagen
 ![Gustos](Gustos/ColoresFavoritos.png)
 ![Gustos](Gustos/PeliculasFavoritas.png)
