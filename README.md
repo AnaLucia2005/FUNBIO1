@@ -11,7 +11,7 @@ Otra imagen
 ![Gustos](Gustos/ColoresFavoritos.png)
 ![Gustos](Gustos/PeliculasFavoritas.png)
 Otra imagen
-![Aspiraciones_para_el_curso](Aspiraciones para el curso/6.png)
+![Aspiraciones_para_el_curso](Aspiraciones_para_el_curso/6.png)
 git add README.md
 git commit -m "Corregido README.md con imágenes"
 git push origin main
